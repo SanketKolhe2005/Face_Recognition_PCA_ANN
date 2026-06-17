@@ -53,7 +53,7 @@ Face_Recognition_PCA_ANN/
 
 ├── report.pdf
 
-├── pca_ann_model.keras
+├── pca_ann_model.h5
 
 └── screenshots/
 
